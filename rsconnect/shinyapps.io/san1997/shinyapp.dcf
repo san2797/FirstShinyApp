@@ -1,0 +1,10 @@
+name: shinyapp
+title:
+username:
+account: san1997
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 376123
+bundleId: 1570016
+url: https://san1997.shinyapps.io/shinyapp/
+when: 1536120988.8314
